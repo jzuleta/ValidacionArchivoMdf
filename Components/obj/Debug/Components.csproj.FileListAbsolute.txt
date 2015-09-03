@@ -1,0 +1,15 @@
+C:\Users\jzuleta\Desktop\CopyFiles\Components\bin\Debug\Components.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Components\bin\Debug\Components.pdb
+C:\Users\jzuleta\Desktop\CopyFiles\Components\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Components\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Components\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Components\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Components\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Components\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Components\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Components\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Components\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Components\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Components\obj\Debug\Components.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Components\obj\Debug\Components.pdb
+C:\Users\jzuleta\Desktop\CopyFiles\Components\obj\Debug\Components.csprojResolveAssemblyReference.cache

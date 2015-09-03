@@ -1,0 +1,11 @@
+C:\Users\jzuleta\Desktop\CopyFiles\Controls\bin\Debug\Controls.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Controls\bin\Debug\Controls.pdb
+C:\Users\jzuleta\Desktop\CopyFiles\Controls\bin\Debug\Components.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Controls\bin\Debug\Components.pdb
+C:\Users\jzuleta\Desktop\CopyFiles\Controls\obj\Debug\Controls.csprojResolveAssemblyReference.cache
+C:\Users\jzuleta\Desktop\CopyFiles\Controls\obj\Debug\CopyFiles.CopyControl.resources
+C:\Users\jzuleta\Desktop\CopyFiles\Controls\obj\Debug\Controls.CreateTextControl.resources
+C:\Users\jzuleta\Desktop\CopyFiles\Controls\obj\Debug\Controls.ValidateControl.resources
+C:\Users\jzuleta\Desktop\CopyFiles\Controls\obj\Debug\Controls.csproj.GenerateResource.Cache
+C:\Users\jzuleta\Desktop\CopyFiles\Controls\obj\Debug\Controls.dll
+C:\Users\jzuleta\Desktop\CopyFiles\Controls\obj\Debug\Controls.pdb

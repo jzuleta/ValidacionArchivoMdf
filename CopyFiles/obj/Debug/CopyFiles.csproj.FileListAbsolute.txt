@@ -1,0 +1,16 @@
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe.config
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\bin\Debug\CopyFiles.pdb
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\bin\Debug\Components.dll
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\bin\Debug\Controls.dll
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\bin\Debug\Components.pdb
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\bin\Debug\Controls.pdb
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.csprojResolveAssemblyReference.cache
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.Form1.resources
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.Properties.Resources.resources
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.csproj.GenerateResource.Cache
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.exe
+C:\Users\jzuleta\Desktop\CopyFiles\CopyFiles\obj\Debug\CopyFiles.pdb
+C:\Users\jzuleta\Desktop\Proyectos\CopyFiles\CopyFiles\bin\Debug\CopyFiles.exe.config
+C:\Users\jzuleta\Desktop\Proyectos\CopyFiles\CopyFiles\obj\Debug\CopyFiles.exe
+C:\Users\jzuleta\Desktop\Proyectos\CopyFiles\CopyFiles\obj\Debug\CopyFiles.pdb
